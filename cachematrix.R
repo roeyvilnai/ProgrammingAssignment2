@@ -1,4 +1,4 @@
-makeCacheMatrix <- function(mat = matrix() {
+makeCacheMatrix <- function(mat = matrix()) {
   
   #instantiate an object to store the inverse
   inverse <- NULL
